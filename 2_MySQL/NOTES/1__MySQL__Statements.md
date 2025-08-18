@@ -5,9 +5,11 @@
 4. **DCL** : Data Control Language
 5. **TCL** : Transaction Control Language
 
+<br />
+<br />
+<br />
 
-
-## DDL – Data Definition Language
+# DDL – Data Definition Language
 * `CREATE`
   * Database
   * Table
@@ -21,8 +23,11 @@
 * `RENAME`
 * `SHOW` and `DESCRIBE`
 
+<br />
+<br />
+<br />
 
-## DML – Data Manipulation Language
+# DML – Data Manipulation Language
 * `INSERT`
   * Single row vs multiple rows
   * `INSERT IGNORE`, `INSERT ... ON DUPLICATE KEY UPDATE`
@@ -33,9 +38,11 @@
   * With conditions
   * Performance considerations
 
+<br />
+<br />
+<br />
 
-
-## DQL – Data Query Language (SELECT)
+# DQL – Data Query Language (SELECT)
 * Basic `SELECT`
 * `DISTINCT`
 * `WHERE` clause (comparison, logical operators, pattern matching)
@@ -58,16 +65,25 @@
   * Window Functions (`ROW_NUMBER`, `RANK`, `LEAD`, `LAG`)
   * CTE (`WITH`)
 
+<br />
+<br />
+<br />
 
-## DCL – Data Control Language
+# DCL – Data Control Language
+
+- Data Administration Language
+- Controlling Access / Modification Permissions
+
 * `GRANT` – Assigning privileges
 * `REVOKE` – Removing privileges
 * `SHOW GRANTS`
 * User management (`CREATE USER`, `DROP USER`, `ALTER USER`)
 
+<br />
+<br />
+<br />
 
-
-## TCL – Transaction Control Language
+# TCL – Transaction Control Language
 * Concept of transactions & ACID properties
 * `START TRANSACTION` / `BEGIN`
 * `COMMIT`
