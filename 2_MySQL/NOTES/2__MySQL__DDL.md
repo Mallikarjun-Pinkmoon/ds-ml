@@ -263,3 +263,19 @@ SHOW CREATE TABLE employees;
 | `TRUNCATE` | Remove all rows  |
 | `RENAME`   | Rename object    |
 | `SHOW`     | Display metadata |
+
+# Naming Conventions
+1. UpperPascalCase : Database, Table Names
+2. lowerPascalCase : columns, index, functions and other Names
+3. snake_case : columns, index, functions and other Names
+
+# key Important Things when Building a Table
+1. Column Data Types
+2. Column Constraints
+
+# Structure of SQL
+1. Statements (Every Statement SHould end with a Semi-Colan)
+2. Clauses (Each State Can Contain One or More Clauses)
+3. Commas will used to seperate argumenst of a clause or command
+4. Semicoln is used to seperate Commands
+
