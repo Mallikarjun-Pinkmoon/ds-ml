@@ -55,7 +55,7 @@
   * Full Outer Join (workarounds in MySQL)
   * Cross Join
   * Self Join
-* **Subqueries**
+<!-- * **Subqueries**
   * Scalar, Row, Table subqueries
   * Correlated subqueries
 * **Set operations**
@@ -63,7 +63,7 @@
 * Advanced clauses:
   * `CASE`, `IF`, `COALESCE`, `NULLIF`
   * Window Functions (`ROW_NUMBER`, `RANK`, `LEAD`, `LAG`)
-  * CTE (`WITH`)
+  * CTE (`WITH`) -->
 
 <br />
 <br />
@@ -89,4 +89,4 @@
 * `COMMIT`
 * `ROLLBACK`
 * `SAVEPOINT` & `ROLLBACK TO SAVEPOINT`
-* `SET AUTOCOMMIT`
+<!-- * `SET AUTOCOMMIT` -->
