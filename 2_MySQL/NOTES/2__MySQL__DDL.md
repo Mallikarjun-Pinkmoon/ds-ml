@@ -1,6 +1,6 @@
 # DDL (Data Definition Language) in MySQL
 
-1. define and manage database structures 
+1. define and manage database structures
 2. Databases, Tables, Indexes, Views, etc.
 
 ## Main DDL Statements:
