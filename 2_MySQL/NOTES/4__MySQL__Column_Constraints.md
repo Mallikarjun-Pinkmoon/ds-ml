@@ -4,7 +4,7 @@
 2. `DEFAULT` : Sets Default Value When Not Mentioned
 3. `UNIQUE` : Makes Sure the Values are Not Repeated
 4. `PRIMARY KEY` : UNIQUE + NOT NULL + INDEX
-5. `w` : Automatically increments a integer
+5. `AUTO_INCREMENT` : Automatically increments a integer
 6. `FOREIGN KEY` : References columns in other tables
    1. References Other Column of **Same** or **Different** Tables
    2. Linking Records
